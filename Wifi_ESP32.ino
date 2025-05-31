@@ -14,8 +14,8 @@ const char* CHAT_ID = "TU_CHAT_ID";
 
 // Configuración NTP
 const char* NTP_SERVER = "pool.ntp.org";
-const long GMT_OFFSET_SEC = -21600;  // UTC-6 (México/Centroamérica)
-const int DAYLIGHT_OFFSET_SEC = 3600;
+const long GMT_OFFSET_SEC = 3600;      // UTC+1 (España/Madrid)
+const int DAYLIGHT_OFFSET_SEC = 3600;  // Horario de verano (CEST)
 
 // Configuración del sistema
 const unsigned long SCAN_INTERVAL = 60000;     // 60 segundos
