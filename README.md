@@ -118,7 +118,9 @@ Recibirás alertas por Telegram si se detecta un dispositivo desconocido con se�
 ## 📚 Comandos disponibles vía Telegram
 
 ```cpp
-/status	Muestra el estado del sistema
+/estatus - Estado actual del sistema
+/stats - Estadísticas detalladas
+/help - Mostrar ayuda
 ```
 
 ## 🛠️ Personalización
